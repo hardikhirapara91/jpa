@@ -1,4 +1,4 @@
-package com.hardik.jpa.bean;
+package com.hardik.jpa.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

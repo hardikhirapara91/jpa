@@ -1,10 +1,10 @@
-package com.hardik.jpa.JPACrudApp;
+package com.hardik.jpa;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
 
-import com.hardik.jpa.bean.Employee;
+import com.hardik.jpa.model.Employee;
 
 /**
  * Test Class
